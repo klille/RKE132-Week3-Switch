@@ -1,0 +1,15 @@
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.exe
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.deps.json
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.runtimeconfig.json
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.dll
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.pdb
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.AssemblyInfo.cs
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.dll
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\refint\IfDayOfTheWeek.dll
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.pdb
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.genruntimeconfig.cache
+C:\Users\Kertu\Desktop\4_KEVAD\Programmeerimine\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\ref\IfDayOfTheWeek.dll
